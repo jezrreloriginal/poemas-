@@ -18,7 +18,7 @@
 </head>
 <body>
 <div class="box">
-    <form action="">
+      <form action="index.php" method="POST" >
         <fieldset>
             <legend> <b> Formulario de cadastro</b></legend>
             <br>
